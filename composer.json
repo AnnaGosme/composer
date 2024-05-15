@@ -1,0 +1,16 @@
+{
+    "name": "anna/composer_quest",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "apl",
+            "email": "anna.gosme@gmail.com"
+        }
+    ],
+    "require": {}
+}
